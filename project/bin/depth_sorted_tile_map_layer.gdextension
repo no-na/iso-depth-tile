@@ -1,6 +1,6 @@
 [configuration]
 
-entry_symbol = "example_library_init"
+entry_symbol = "depth_sorted_tile_map_layer"
 compatibility_minimum = "4.1"
 reloadable = false
 

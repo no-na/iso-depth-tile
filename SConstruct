@@ -5,7 +5,7 @@ import sys
 from methods import print_error
 
 
-libname = "EXTENSION-NAME"
+libname = "depth_sorted_tile_map_layer"
 projectdir = "project"
 
 localEnv = Environment(tools=["default"], PLATFORM="")
